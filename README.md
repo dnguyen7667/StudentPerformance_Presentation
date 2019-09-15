@@ -1,6 +1,6 @@
 # StudentPerformance Presentation
 
-Proposal of another way to improve students' performance by predicting if the student is likely to fail a class thus actions can be taken on time.
+Proposal of another way to improve students' performance by predicting if the student is likely to fail a class, by using data and computing power, thus actions can be taken on time.
 
 Use of PySpark for processing large dataset and machine learning algorithms.
 
